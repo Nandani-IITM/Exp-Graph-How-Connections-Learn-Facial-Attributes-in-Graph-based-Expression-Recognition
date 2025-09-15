@@ -1,6 +1,6 @@
 ## 📖 Citation
 
-If you use this code, please cite:
+If you use this Architecture, please cite:
 
 ```bibtex
 @article{sharma2025exp,
