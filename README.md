@@ -1,6 +1,7 @@
 ## 📖 Citation
+## 📄 Paper
 
-If you use this Architecture, please cite:
+If you use this work, please cite our paper:
 
 ```bibtex
 @article{sharma2025exp,
